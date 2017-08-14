@@ -1,0 +1,14 @@
+{
+  "name": "minimal-pwa",
+  "version": "0.0.0",
+  "description": "A minimal pwa practise.",
+  "homepage": "https://github.com/afeiship/minimal-pwa",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "scripts": {
+    "build": "gulp"
+  },
+  "license": "MIT"
+}
