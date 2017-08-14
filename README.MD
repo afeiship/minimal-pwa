@@ -1,8 +1,6 @@
 # minimal-pwa
-> A minimal pwa practise.
+> A minimal pwa(Progressive Web Apps) practise.
 
 
 ## resources:
-
-## todos:
-- [ ] unit test case
++ https://zhuanlan.zhihu.com/p/25459319
